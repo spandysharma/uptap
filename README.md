@@ -1,6 +1,6 @@
 # Uptap
 
-This app is a platform independent solution wherein any two users can instantly swap their profiles via QR code, which they create and publish on Uptap.
+This app is a platform independent solution wherein any two users can instantly swap their profiles via QR code, which they create and publish on Uptap. It was created by Aditya Menon, Rena Shen, and Spandan Sharma at the University of Michigan.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![GitHub stars](https://img.shields.io/github/stars/your_username/your_repo.svg?style=social)](https://github.com/your_username/your_repo/stargazers)
